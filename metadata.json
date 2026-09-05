@@ -1,0 +1,6 @@
+{
+  "name": "dekotube",
+  "description": "A full-featured video streaming platform featuring user authentication, video and shorts uploads, admin dashboard with platform rules, view tracking, and monetization calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
